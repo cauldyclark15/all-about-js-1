@@ -1,0 +1,16 @@
+{
+  "name": "all-about-js-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cauldyclark15/all-about-js-1.git",
+  "author": "Joselie Castaneda <jcing.jc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon ./server.js"
+  }
+}
